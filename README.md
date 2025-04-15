@@ -77,10 +77,10 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/04/2025 | Em andamento   | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
+| 01 | 04/04/2025 | Concluído       | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
 | 02 | 25/04/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
 | 03 | 16/05/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17962405/RELATORIO.SPRINT.3.docx)
-| 04 | 27/06/2025 | Em andamento | [Relatório](https://github.com/user-attachments/files/17962423/RELATORIO.SPRINT.4-1.docx)|
+| 04 | 27/06/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17962423/RELATORIO.SPRINT.4-1.docx)|
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
